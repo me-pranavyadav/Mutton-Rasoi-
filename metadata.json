@@ -1,0 +1,6 @@
+{
+  "name": "Mutton Rasoi - Authentic Bihar Mutton Cloud Kitchen",
+  "description": "Authentic Bihar-style mutton cloud kitchen operating from Ayachi Gram, Baharia and serving freshly prepared desi mutton across Muzaffarpur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
